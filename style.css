@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: "Inter Tight";
+  font-optical-sizing : auto;
+  font-style: normal;
+}
+
+.social-media{
+    display: flex;
+    flex-direction: row;
+    margin-left: 4%;
+    
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    margin-left: 14%;
+}
+
+.headii{
+    display: flex;
+    flex-direction: row;
+}
+.intro{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    background-color: #F5F5F5;
+    width: 43%;
+}
+.button{
+    background-color: #17C1A3;
+    height: 50px; width: 180px; 
+    border-color: #17C1A3;
+    color: white;
+    font-size: 15px;
+}
+.nice{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+.box1{
+    height: 80px;
+    border-radius: 5px;
+    border-width: 1px;
+    font-size:  px;
+    
+}
+
+.box2{
+    height: 80px;
+    border-radius: 5px;
+    border-width: 1px;
+    
+}
+.button2{
+    background-color: #17C1A3;
+    height: 60px;
+    width:350px;
+    border-color: #17C1A3;
+    color: white;
+    font-size: 20px;
+}
+.appointment{
+    margin-top: 1.5%;
+    margin-left: 7%;
+    background-color: white;
+    
+
+}
+.department{
+    margin-left: 4%;
+}
+.boast{
+    display: flex;
+    flex-direction: row;
+    margin-top: -5%;
+    margin-left: 4%;
+    height:35%; 
+    width: 36.5%;
+    background-color: #F0FBFF;
+}
+.Specialist{
+    display: flex;
+    flex-direction: row;
+    margin-left: -1%;
+    
+}
+.button3{
+background-color: #17C1A3;
+    height: 60px;
+    width:200px;
+    border-color: #17C1A3;
+    color: white;
+    font-size: 20px;
+}
+.activities{
+    margin-left: 18px;
+}
+.backgrnd{
+    background-color: #EAF2FF;
+    width: 43%;
+    height: 60%;
+}
+.btn4{
+    color: white; 
+    border-color: #17C1A3;
+    border-radius: 5px;
+    background-color: #17C1A3;
+    height: 60px;
+    width: 150px;
+    font-size: 25px;
+}
+
+.cntr{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+}
+.endin{
+    display: flex;
+    flex-direction: row;
+}
